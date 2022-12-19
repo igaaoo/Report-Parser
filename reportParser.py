@@ -3,6 +3,8 @@ import os
 
 rootPath = "Apps"
 
+# Get elements and errors from report
+
 
 def getElementsAndErrors(content):
     elementsAndErros = list(filter(lambda x: x.startswith("com") or x.startswith("ufc") or x.startswith(
@@ -15,6 +17,7 @@ def getElementsAndErrors(content):
     return final
 
 
+# Get all files from folders
 for root, dirs, files in os.walk(rootPath):
 
     for dire in dirs:
@@ -23,13 +26,15 @@ for root, dirs, files in os.walk(rootPath):
         files = os.listdir(root + "/{}/" .format(dire))
 
         for file in files:
-            if file.endswith(".txt"):
+            if file.endswith(".txt"):  # Only txt files
                 infile = open(root + "/{}/" .format(dire) +
                               file, encoding='utf-8')
                 content += infile.read().split('\n')
 
+        # Get all reports from folder
         reports = [f for f in files if f.endswith(".txt")]
 
+        # Print collected data
         print("________________________________________________________________________")
         print("\n")
 
