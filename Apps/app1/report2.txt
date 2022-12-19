@@ -1,0 +1,94 @@
+Masqueico Preigo
+
+Rótulo do item
+com.google.android.youtube:id/results
+O rótulo deste item pode não ser lido por leitores de tela.
+
+Tamanho do texto
+com.google.android.youtube:id/text
+Este texto é pequeno e pode dificultar a leitura de alguns usuários. Use um texto maior ou especifique o tamanho do texto em escala de pixels (sp).
+
+Tamanho do texto
+com.google.android.youtube:id/text
+Este texto é pequeno e pode dificultar a leitura de alguns usuários. Use um texto maior ou especifique o tamanho do texto em escala de pixels (sp).
+
+Tamanho do texto
+com.google.android.youtube:id/text
+Este texto é pequeno e pode dificultar a leitura de alguns usuários. Use um texto maior ou especifique o tamanho do texto em escala de pixels (sp).
+
+Tamanho do texto
+com.google.android.youtube:id/text
+Este texto é pequeno e pode dificultar a leitura de alguns usuários. Use um texto maior ou especifique o tamanho do texto em escala de pixels (sp).
+
+Área de toque
+[23,150][102,210]
+O tamanho deste item é 42dp x 32dp. Considere aumentar a largura em 48dp e a altura em 48dp ou mais nesta área de toque.
+
+Área de toque
+[149,150][252,210]
+A altura deste item é 32dp. Considere definir a altura desta área de toque como 48dp ou maior.
+
+Área de toque
+[267,150][383,210]
+A altura deste item é 32dp. Considere definir a altura desta área de toque como 48dp ou maior.
+
+Área de toque
+[398,150][543,210]
+A altura deste item é 32dp. Considere definir a altura desta área de toque como 48dp ou maior.
+
+Área de toque
+[558,150][716,210]
+A altura deste item é 32dp. Considere definir a altura desta área de toque como 48dp ou maior.
+
+Contraste da imagem
+[677,1087][720,1420]
+A taxa de contraste da imagem é 1,68. Essa taxa baseia-se em uma estimativa da cor do primeiro plano #60645C e da cor de fundo #83897E. Considere aumentar essa taxa para 3,00 ou mais. Este item pode estar coberto por outro conteúdo na tela. Considere testar manualmente o contraste deste item. Este item pode estar apenas parcialmente visível dentro de um contêiner de rolagem.
+
+Contraste do texto
+com.google.android.youtube:id/new_content_count
+A taxa de contraste do texto no item é 4,00. Ela é determinada com base na estimativa da cor do primeiro plano #FFFFFF e da cor de fundo #FF0000. Aumente esse valor para 4,50 ou mais. Este item pode estar coberto por outro conteúdo na tela. Considere testar manualmente o contraste deste item.
+
+Descrições de itens
+[285,1102][319,1136]
+O texto falado deste item clicável: "Mais ações" é idêntico a outros 1 itens.
+
+Descrições de itens
+[144,1420][288,1510]
+O texto falado deste item clicável: "Shorts" é idêntico a outros 1 itens.
+
+Tamanho do texto
+com.google.android.youtube:id/new_content_count
+Modifique LayoutParams para permitir a expansão de texto.
+
+Área de toque
+[23,653][91,721]
+O tamanho deste item é 36dp x 36dp. Considere aumentar a largura em 48dp e a altura em 48dp ou mais nesta área de toque. Um TouchDelegate foi detectado em um dos ancestrais deste item. Esta mensagem pode ser ignorada se o delegado for de tamanho suficiente e processar toques para este item. Um contêiner com filhos pode estar processando eventos de toque para este item. Se a seleção do maior contêiner executar a mesma ação que a seleção desse item, considere definir o item como não clicável. Se uma ação diferente for executada, considere aumentar o tamanho deste item.
+
+Área de toque
+[114,653][678,719]
+A altura deste item é 35dp. Considere definir a altura desta área de toque como 48dp ou maior. Um TouchDelegate foi detectado em um dos ancestrais deste item. Esta mensagem pode ser ignorada se o delegado for de tamanho suficiente e processar toques para este item. Um contêiner com filhos pode estar processando eventos de toque para este item. Se a seleção do maior contêiner executar a mesma ação que a seleção desse item, considere definir o item como não clicável. Se uma ação diferente for executada, considere aumentar o tamanho deste item.
+
+Área de toque
+[678,653][712,687]
+O tamanho deste item é 18dp x 18dp. Considere aumentar a largura em 48dp e a altura em 48dp ou mais nesta área de toque. Um TouchDelegate foi detectado em um dos ancestrais deste item. Esta mensagem pode ser ignorada se o delegado for de tamanho suficiente e processar toques para este item. Um contêiner com filhos pode estar processando eventos de toque para este item. Se a seleção do maior contêiner executar a mesma ação que a seleção desse item, considere definir o item como não clicável. Se uma ação diferente for executada, considere aumentar o tamanho deste item.
+
+Área de toque
+[114,719][678,786]
+A altura deste item é 36dp. Considere definir a altura desta área de toque como 48dp ou maior. Um TouchDelegate foi detectado em um dos ancestrais deste item. Esta mensagem pode ser ignorada se o delegado for de tamanho suficiente e processar toques para este item. Um contêiner com filhos pode estar processando eventos de toque para este item. Se a seleção do maior contêiner executar a mesma ação que a seleção desse item, considere definir o item como não clicável. Se uma ação diferente for executada, considere aumentar o tamanho deste item.
+
+Área de toque
+[222,794][373,826]
+A altura deste item é 17dp. Considere definir a altura desta área de toque como 48dp ou maior. Um TouchDelegate foi detectado em um dos ancestrais deste item. Esta mensagem pode ser ignorada se o delegado for de tamanho suficiente e processar toques para este item. Um contêiner com filhos pode estar processando eventos de toque para este item. Se a seleção do maior contêiner executar a mesma ação que a seleção desse item, considere definir o item como não clicável. Se uma ação diferente for executada, considere aumentar o tamanho deste item.
+
+Área de toque
+[23,849][697,917]
+A altura deste item é 36dp. Considere definir a altura desta área de toque como 48dp ou maior. Um contêiner com filhos pode estar processando eventos de toque para este item. Se a seleção do maior contêiner executar a mesma ação que a seleção desse item, considere definir o item como não clicável. Se uma ação diferente for executada, considere aumentar o tamanho deste item.
+
+Área de toque
+[285,1102][319,1136]
+O tamanho deste item é 18dp x 18dp. Considere aumentar a largura em 48dp e a altura em 48dp ou mais nesta área de toque. Um TouchDelegate foi detectado em um dos ancestrais deste item. Esta mensagem pode ser ignorada se o delegado for de tamanho suficiente e processar toques para este item. Um contêiner com filhos pode estar processando eventos de toque para este item. Se a seleção do maior contêiner executar a mesma ação que a seleção desse item, considere definir o item como não clicável. Se uma ação diferente for executada, considere aumentar o tamanho deste item.
+
+Área de toque
+[612,1102][646,1136]
+O tamanho deste item é 18dp x 18dp. Considere aumentar a largura em 48dp e a altura em 48dp ou mais nesta área de toque. Um TouchDelegate foi detectado em um dos ancestrais deste item. Esta mensagem pode ser ignorada se o delegado for de tamanho suficiente e processar toques para este item. Um contêiner com filhos pode estar processando eventos de toque para este item. Se a seleção do maior contêiner executar a mesma ação que a seleção desse item, considere definir o item como não clicável. Se uma ação diferente for executada, considere aumentar o tamanho deste item.
+

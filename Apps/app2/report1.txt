@@ -1,0 +1,37 @@
+A lista a seguir contém oportunidades de melhoria na acessibilidade de Basketball Scores. Cada item corresponde a uma área delineada na captura de tela anexa.
+
+Contraste do texto
+ufc.smd.esqueleto_placar:id/btIniciar
+A taxa de contraste do texto no item é 2,82. Ela é determinada com base na estimativa da cor do primeiro plano #FFFFFF e da cor de fundo #FF6D00. Aumente esse valor para 4,50 ou mais.
+
+//Coloquei vários contrastes para testar
+Contraste do texto
+ufc.smd.esqueleto_placar:id/btNonSense
+A taxa de contraste do texto no item é 2,82. Ela é determinada com base na estimativa da cor do primeiro plano #FFFFFF e da cor de fundo #FF6D00. Aumente esse valor para 4,50 ou mais.
+
+Contraste do texto
+ufc.smd.esqueleto_placar:id/btNonSense
+A taxa de contraste do texto no item é 2,82. Ela é determinada com base na estimativa da cor do primeiro plano #FFFFFF e da cor de fundo #FF6D00. Aumente esse valor para 4,50 ou mais.
+
+
+Contraste do texto
+ufc.smd.esqueleto_placar:id/btPreviousGame
+A taxa de contraste do texto no item é 2,82. Ela é determinada com base na estimativa da cor do primeiro plano #FFFFFF e da cor de fundo #FF6D00. Aumente esse valor para 4,50 ou mais.
+
+Contraste do texto
+ufc.smd.esqueleto_placar:id/btNonSense
+A taxa de contraste do texto no item é 2,82. Ela é determinada com base na estimativa da cor do primeiro plano #FFFFFF e da cor de fundo #FF6D00. Aumente esse valor para 4,50 ou mais.
+
+Tamanho do texto
+ufc.smd.esqueleto_placar:id/btIniciar
+Modifique LayoutParams para permitir a expansão de texto.
+
+Tamanho do texto
+ufc.smd.esqueleto_placar:id/btPreviousGame
+Modifique LayoutParams para permitir a expansão de texto.
+
+Contraste do texto
+ufc.smd.esqueleto_placar:id/btNonSense
+A taxa de contraste do texto no item é 2,82. Ela é determinada com base na estimativa da cor do primeiro plano #FFFFFF e da cor de fundo #FF6D00. Aumente esse valor para 4,50 ou mais.
+
+
